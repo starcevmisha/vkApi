@@ -20,6 +20,7 @@ async def run(r):
         # you now have all response bodies in this variable
         print(responses)
 
+
 def print_responses(result):
     print(result)
 
